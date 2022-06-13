@@ -44,5 +44,8 @@
     let text;
     console.log(text ?? 'No text');
 
+    let user;
+    console.log(user ?? 'No user');
+
 
 
